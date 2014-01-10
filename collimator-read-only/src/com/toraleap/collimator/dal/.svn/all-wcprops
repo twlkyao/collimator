@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/22/trunk/src/com/toraleap/collimator/dal
+END
+DBOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/22/trunk/src/com/toraleap/collimator/dal/DBOperation.java
+END
+DBColumns.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/22/trunk/src/com/toraleap/collimator/dal/DBColumns.java
+END
+DBHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/22/trunk/src/com/toraleap/collimator/dal/DBHelper.java
+END

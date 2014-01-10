@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/17/trunk/res/anim
+END
+floating_dialog_grid_open.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/17/trunk/res/anim/floating_dialog_grid_open.xml
+END
+floating_dialog_grid_close.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/17/trunk/res/anim/floating_dialog_grid_close.xml
+END
+floating_dialog_list_open.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/17/trunk/res/anim/floating_dialog_list_open.xml
+END
+floating_dialog_list_close.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/17/trunk/res/anim/floating_dialog_list_close.xml
+END

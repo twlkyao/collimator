@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/src/com/toraleap/collimator/util
+END
+MimeTypeMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/17/trunk/src/com/toraleap/collimator/util/MimeTypeMap.java
+END
+ShortcutHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/17/trunk/src/com/toraleap/collimator/util/ShortcutHelper.java
+END
+FileInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/17/trunk/src/com/toraleap/collimator/util/FileInfo.java
+END
+DigestUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/src/com/toraleap/collimator/util/DigestUtil.java
+END
+Unicode2Alpha.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/22/trunk/src/com/toraleap/collimator/util/Unicode2Alpha.java
+END
+SoftCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/21/trunk/src/com/toraleap/collimator/util/SoftCache.java
+END
+RecursiveFileObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/22/trunk/src/com/toraleap/collimator/util/RecursiveFileObserver.java
+END
+ThumbnailUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/22/trunk/src/com/toraleap/collimator/util/ThumbnailUtil.java
+END

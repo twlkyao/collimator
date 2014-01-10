@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/trunk/src/com/toraleap/collimator/data
+END
+IndexData.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/17/trunk/src/com/toraleap/collimator/data/IndexData.java
+END
+Matcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/19/trunk/src/com/toraleap/collimator/data/Matcher.java
+END
+Index.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/19/trunk/src/com/toraleap/collimator/data/Index.java
+END
+Match.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/17/trunk/src/com/toraleap/collimator/data/Match.java
+END
+IndexLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/18/trunk/src/com/toraleap/collimator/data/IndexLoader.java
+END
+Sorter.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/17/trunk/src/com/toraleap/collimator/data/Sorter.java
+END
+Expression.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/17/trunk/src/com/toraleap/collimator/data/Expression.java
+END

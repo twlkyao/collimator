@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/17/trunk/res/layout
+END
+listitem_icon_default.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/17/trunk/res/layout/listitem_icon_default.xml
+END
+edittext_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/17/trunk/res/layout/edittext_dialog.xml
+END
+listitem_icon_selected.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/17/trunk/res/layout/listitem_icon_selected.xml
+END
+listitem_tile_default.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/17/trunk/res/layout/listitem_tile_default.xml
+END
+floating_dialog_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/17/trunk/res/layout/floating_dialog_list.xml
+END
+listitem_tile_selected.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/17/trunk/res/layout/listitem_tile_selected.xml
+END
+search_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/17/trunk/res/layout/search_activity.xml
+END
+floating_dialog_grid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/17/trunk/res/layout/floating_dialog_grid.xml
+END
+shortcut_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/17/trunk/res/layout/shortcut_dialog.xml
+END
+floating_dialog_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/17/trunk/res/layout/floating_dialog_list_item.xml
+END
+listitem_digest_default.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/17/trunk/res/layout/listitem_digest_default.xml
+END
+first_launch_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/17/trunk/res/layout/first_launch_dialog.xml
+END
+listitem_digest_selected.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/17/trunk/res/layout/listitem_digest_selected.xml
+END
+help_activity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/17/trunk/res/layout/help_activity.xml
+END
+floating_dialog_grid_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/17/trunk/res/layout/floating_dialog_grid_item.xml
+END

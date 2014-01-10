@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/17/trunk/res/drawable
+END
+item_indicator_bg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/17/trunk/res/drawable/item_indicator_bg.xml
+END
+floating_dialog_indicator_bg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17/trunk/res/drawable/floating_dialog_indicator_bg.xml
+END
+floating_dialog_grid_item_bg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17/trunk/res/drawable/floating_dialog_grid_item_bg.xml
+END
+search_selector_bg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/17/trunk/res/drawable/search_selector_bg.xml
+END

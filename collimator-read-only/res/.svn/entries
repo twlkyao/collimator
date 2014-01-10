@@ -1,0 +1,58 @@
+10
+
+dir
+23
+http://collimator.googlecode.com/svn/trunk/res
+http://collimator.googlecode.com/svn
+
+
+
+2011-05-15T13:25:16.432689Z
+22
+uestc.Mobius@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cd670077-daa0-b95d-3962-097c5ba61112
+
+layout
+dir
+
+values-zh-rCN
+dir
+
+xml-zh-rCN
+dir
+
+values
+dir
+
+xml
+dir
+
+drawable
+dir
+
+drawable-hdpi
+dir
+
+anim
+dir
+
+values-zh-rTW
+dir
+
+xml-zh-rTW
+dir
+
